@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lad5\\WorkSpace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40655010-4614-49C8-8E04-3D5C9DD29668}|WorkSpace.csproj|d:\\lad5\\workspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40655010-4614-49C8-8E04-3D5C9DD29668}|WorkSpace.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40655010-4614-49C8-8E04-3D5C9DD29668}|WorkSpace.csproj|d:\\lad5\\workspace\\chaos_chaos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40655010-4614-49C8-8E04-3D5C9DD29668}|WorkSpace.csproj|solutionrelative:chaos_chaos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40655010-4614-49C8-8E04-3D5C9DD29668}|WorkSpace.csproj|d:\\lad5\\workspace\\ramzy_queue_cyclel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40655010-4614-49C8-8E04-3D5C9DD29668}|WorkSpace.csproj|solutionrelative:ramzy_queue_cyclel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40655010-4614-49C8-8E04-3D5C9DD29668}|WorkSpace.csproj|d:\\lad5\\workspace\\ramzy_stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40655010-4614-49C8-8E04-3D5C9DD29668}|WorkSpace.csproj|solutionrelative:ramzy_stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40655010-4614-49C8-8E04-3D5C9DD29668}|WorkSpace.csproj|d:\\lad5\\workspace\\ramzy_stack_generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40655010-4614-49C8-8E04-3D5C9DD29668}|WorkSpace.csproj|solutionrelative:ramzy_stack_generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ramzy_queue_cyclel.cs",
+              "DocumentMoniker": "D:\\Lad5\\WorkSpace\\Ramzy_queue_cyclel.cs",
+              "RelativeDocumentMoniker": "Ramzy_queue_cyclel.cs",
+              "ToolTip": "D:\\Lad5\\WorkSpace\\Ramzy_queue_cyclel.cs",
+              "RelativeToolTip": "Ramzy_queue_cyclel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwEEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:32:50.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ramzy_Stack_generic.cs",
+              "DocumentMoniker": "D:\\Lad5\\WorkSpace\\Ramzy_Stack_generic.cs",
+              "RelativeDocumentMoniker": "Ramzy_Stack_generic.cs",
+              "ToolTip": "D:\\Lad5\\WorkSpace\\Ramzy_Stack_generic.cs",
+              "RelativeToolTip": "Ramzy_Stack_generic.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvywAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:28:13.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ramzy_Stack.cs",
+              "DocumentMoniker": "D:\\Lad5\\WorkSpace\\Ramzy_Stack.cs",
+              "RelativeDocumentMoniker": "Ramzy_Stack.cs",
+              "ToolTip": "D:\\Lad5\\WorkSpace\\Ramzy_Stack.cs",
+              "RelativeToolTip": "Ramzy_Stack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:52:44.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chaos_Chaos.cs",
+              "DocumentMoniker": "D:\\Lad5\\WorkSpace\\Chaos_Chaos.cs",
+              "RelativeDocumentMoniker": "Chaos_Chaos.cs",
+              "ToolTip": "D:\\Lad5\\WorkSpace\\Chaos_Chaos.cs",
+              "RelativeToolTip": "Chaos_Chaos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:37:42.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lad5\\WorkSpace\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Lad5\\WorkSpace\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAiwEEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:35:42.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
