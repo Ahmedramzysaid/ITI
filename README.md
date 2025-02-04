@@ -1,13 +1,14 @@
-Comprehensive collection of C# programming tasks focusing on Object-Oriented Programming principles.
+# ITI C# Programming Tasks
 
-Key Features 
+A comprehensive collection of C# programming tasks focusing on Object-Oriented Programming principles.
 
-1-Object-Oriented Programming concepts
+## Key Features
 
-2-Advanced OOP techniques
+- **Object-Oriented Programming Concepts**: Learn the fundamentals of OOP, including classes, objects, and encapsulation.
+- **Advanced OOP Techniques**: Dive into more complex topics such as abstraction, interfaces, and design patterns.
+- **Inheritance and Polymorphism Examples**: Understand how to implement inheritance and polymorphism in C#.
+- **Practical C# Programming Solutions**: Apply your knowledge through practical exercises and real-world examples.
 
-3-Inheritance and polymorphism examples
+### Developed During
 
-4-Practical C# programming solutions
-
-Developed during Information Technology Institute (ITI) training program
+This collection was developed during the Information Technology Institute (ITI) training program.
