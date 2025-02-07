@@ -1,0 +1,15 @@
+D:\git repo\ITI\ITI\Week 2\Day_Six(Lab6)\Day_7(lab 7)\obj\Debug\net9.0\Day_7(lab 7).GeneratedMSBuildEditorConfig.editorconfig
+D:\git repo\ITI\ITI\Week 2\Day_Six(Lab6)\Day_7(lab 7)\obj\Debug\net9.0\Day_7(lab 7).AssemblyInfoInputs.cache
+D:\git repo\ITI\ITI\Week 2\Day_Six(Lab6)\Day_7(lab 7)\obj\Debug\net9.0\Day_7(lab 7).AssemblyInfo.cs
+D:\git repo\ITI\ITI\Week 2\Day_Six(Lab6)\Day_7(lab 7)\obj\Debug\net9.0\Day_7(lab 7).csproj.CoreCompileInputs.cache
+D:\git repo\ITI\ITI\Week 2\Day_Six(Lab6)\Day_7(lab 7)\obj\Debug\net9.0\Day_7(lab 7).sourcelink.json
+D:\git repo\ITI\ITI\Week 2\Day_Six(Lab6)\Day_7(lab 7)\bin\Debug\net9.0\Day_7(lab 7).exe
+D:\git repo\ITI\ITI\Week 2\Day_Six(Lab6)\Day_7(lab 7)\bin\Debug\net9.0\Day_7(lab 7).deps.json
+D:\git repo\ITI\ITI\Week 2\Day_Six(Lab6)\Day_7(lab 7)\bin\Debug\net9.0\Day_7(lab 7).runtimeconfig.json
+D:\git repo\ITI\ITI\Week 2\Day_Six(Lab6)\Day_7(lab 7)\bin\Debug\net9.0\Day_7(lab 7).dll
+D:\git repo\ITI\ITI\Week 2\Day_Six(Lab6)\Day_7(lab 7)\bin\Debug\net9.0\Day_7(lab 7).pdb
+D:\git repo\ITI\ITI\Week 2\Day_Six(Lab6)\Day_7(lab 7)\obj\Debug\net9.0\Day_7(lab 7).dll
+D:\git repo\ITI\ITI\Week 2\Day_Six(Lab6)\Day_7(lab 7)\obj\Debug\net9.0\refint\Day_7(lab 7).dll
+D:\git repo\ITI\ITI\Week 2\Day_Six(Lab6)\Day_7(lab 7)\obj\Debug\net9.0\Day_7(lab 7).pdb
+D:\git repo\ITI\ITI\Week 2\Day_Six(Lab6)\Day_7(lab 7)\obj\Debug\net9.0\Day_7(lab 7).genruntimeconfig.cache
+D:\git repo\ITI\ITI\Week 2\Day_Six(Lab6)\Day_7(lab 7)\obj\Debug\net9.0\ref\Day_7(lab 7).dll

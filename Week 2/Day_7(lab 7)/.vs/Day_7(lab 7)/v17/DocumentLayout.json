@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git repo\\ITI\\ITI\\Week 2\\Day_Six(Lab6)\\Day_7(lab 7)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{735EC258-A955-4553-9311-9F797D84720B}|Day_7(lab 7).csproj|d:\\git repo\\iti\\iti\\week 2\\day_six(lab6)\\day_7(lab 7)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735EC258-A955-4553-9311-9F797D84720B}|Day_7(lab 7).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735EC258-A955-4553-9311-9F797D84720B}|Day_7(lab 7).csproj|d:\\git repo\\iti\\iti\\week 2\\day_six(lab6)\\day_7(lab 7)\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735EC258-A955-4553-9311-9F797D84720B}|Day_7(lab 7).csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735EC258-A955-4553-9311-9F797D84720B}|Day_7(lab 7).csproj|d:\\git repo\\iti\\iti\\week 2\\day_six(lab6)\\day_7(lab 7)\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735EC258-A955-4553-9311-9F797D84720B}|Day_7(lab 7).csproj|solutionrelative:point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735EC258-A955-4553-9311-9F797D84720B}|Day_7(lab 7).csproj|d:\\git repo\\iti\\iti\\week 2\\day_six(lab6)\\day_7(lab 7)\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735EC258-A955-4553-9311-9F797D84720B}|Day_7(lab 7).csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\git repo\\ITI\\ITI\\Week 2\\Day_Six(Lab6)\\Day_7(lab 7)\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\git repo\\ITI\\ITI\\Week 2\\Day_Six(Lab6)\\Day_7(lab 7)\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:36:51.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\git repo\\ITI\\ITI\\Week 2\\Day_Six(Lab6)\\Day_7(lab 7)\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\git repo\\ITI\\ITI\\Week 2\\Day_Six(Lab6)\\Day_7(lab 7)\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:30:33.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.cs",
+              "DocumentMoniker": "D:\\git repo\\ITI\\ITI\\Week 2\\Day_Six(Lab6)\\Day_7(lab 7)\\Point.cs",
+              "RelativeDocumentMoniker": "Point.cs",
+              "ToolTip": "D:\\git repo\\ITI\\ITI\\Week 2\\Day_Six(Lab6)\\Day_7(lab 7)\\Point.cs",
+              "RelativeToolTip": "Point.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:12:31.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git repo\\ITI\\ITI\\Week 2\\Day_Six(Lab6)\\Day_7(lab 7)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\git repo\\ITI\\ITI\\Week 2\\Day_Six(Lab6)\\Day_7(lab 7)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:09:43.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
